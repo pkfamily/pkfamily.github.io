@@ -120,9 +120,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: pkfamily/pkfamily.github.io
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDONjDBxQ
+    category: General
+    category_id: DIC_kwDONjDBxc4Clntm
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'

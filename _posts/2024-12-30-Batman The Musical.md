@@ -18,7 +18,11 @@ In the end, everything is wrapped up in nice a package. Batman defeats Music Mei
 
 The fun doesn't stop there! Given how amazing this episode was (An Emmy Nomination no less). An eight track soundtrack of the music from the episode was even released! I don't know about you, but "I'm the Music Meister" is certainly going to be added to my Spotify playlist.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5MF3pS7onAiKlfLOo4yOp5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5MF3pS7onAiKlfLOo4yOp5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Also wanted to put in a quick plug for Grey DeLisle and her contribution as the voice of Black Canary. Apparently, she is also a talented country singer-songwriter!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2crxUkgEZN8zedQMY49EOt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## There's More
 

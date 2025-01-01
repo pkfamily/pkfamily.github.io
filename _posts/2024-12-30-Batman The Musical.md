@@ -20,7 +20,7 @@ The fun doesn't stop there! Given how amazing this episode was (An Emmy Nominati
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5MF3pS7onAiKlfLOo4yOp5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Also wanted to put in a quick plug for Grey DeLisle and her contribution as the voice of Black Canary. Apparently, she is also a talented country singer-songwriter!
+Also wanted to put in a plug for the [other members of cast!](https://www.imdb.com/title/tt1447251/) Grey DeLisle and her contribution as the voice of Black Canary. She is also a talented country singer-songwriter! I listened to some of her tracks. I liked Driftless Girl, my Two Feet and her latest single, Don't Make Her Christmas Come true, a duet with Rosie Flores (a Simple Case of the Blues). Kevin Michael Richardson as Black Manta. John Di Maggio as Aquaman and Gorrila Grodd. Dee Bradley Baker as Clock King. And James Arnold Taylor as Green Arrow. Wow, possible 6 different voice lines. But not if Batman has anything to say about it! "This Concerto of Crime ends now!". Then Music Meister comes back with the "Now you have the chance to show Batman how well you Dance". And Dance they do.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2crxUkgEZN8zedQMY49EOt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

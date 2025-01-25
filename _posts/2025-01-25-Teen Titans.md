@@ -5,18 +5,16 @@ categories: [Teen Titans,]
 tags: [teen titans,]     # TAG names should always be lowercase
 
 image:
-  path: https://www.denofgeek.com/wp-content/uploads/2023/12/batman-santa-claus-silent-knight.jpg?fit=1600%2C900
+  path: https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/teen_titans_tv_series.png
 ---
 
-## Christmas with the Bat
+## Teen Titans (2003)
 
-Perhaps late to the party, a month too late to be exact, I always did have a particular fondness for holiday inspired Batman episodes. Something about how even the caped crusader has crisis to resolve during the holiday season brings much Joy to me.
+The first time I got aquainted with the show was this Teen Titans Beenie I would constantly wear as a freshman in College. I also have this persistent memory of an encounter with a fellow student at a bus who asked if I was freshman. I wonder what gave it away? >.<! 
 
-## Christmas with the Joker
+I've always heard good things about the Teen Titans (2003) but never gave it shot until recently when I stumbled upon it on Amazon Prime Video. The first thing that struck out to me was the amazing opening theme song. Unfortunately you can't find it on Spotify but luckily fans have uploaded it on YT. [Full Version (English)](https://www.youtube.com/watch?v=xhhOMceBJv8&ab_channel=barrywroteit), [Intro Version (English)](https://www.youtube.com/watch?v=yL75mtNZ6PA&ab_channel=WarnerBros.Classics), [Full Version (Japanese)](https://www.youtube.com/watch?v=99smB48A9U8&ab_channel=SakiRose), and [Intro Version (Japanese)](https://www.youtube.com/watch?v=Z3N3pHGqIS0&ab_channel=Ben10Petya). It's pretty cool that they have both English and Japanese of the theme song. They actually alternate between both versions on the show which is amazing. Don't think I've seen a show do something like that before. According to the [wiki page](https://teentitans.fandom.com/wiki/Theme_Song), the Japanese version intro is used for funny episodes whereas the English version is used for more serious episodes. I'll have to keep an eye out for this as I continue watching the show. If you click on the Full Version (English) link, it leads a full music video of the English theme song with a nice solo by the legendary Guitar Wolf. Another thing to note about the Teen Titans theme song is that it reminds me of the iconic Adam West Batman Theme. Though according to the wiki, the theme song maybe more inspired by 60's surf rock and "Secret Agent Man".
 
-The second produced episode of the beloved Batman The Animated Series (1992) was Christmas with the Joker. Although I found it interesting that the airdate order is actually #38 on November 13, 1992. A little disappointing as I would hope the episode would air a little closer to Christmas. 
 
-In the beginning of the episode, Robin pushes Batman to watch It's a Wonderful Life with him if there is no crime to fight on Christmas Eve. [It's a Wonderful life](https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life) is actually a very popular Christmas movie by the way released in 1946. 
 
 <script src="https://giscus.app/client.js"
         data-repo="pkfamily/pkfamily.github.io"

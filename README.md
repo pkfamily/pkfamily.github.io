@@ -1,3 +1,9 @@
+# A DC Blog
+
+Mainly Batman related content, but will dive into other DC related franchises such as Teen Titans, Justice League, and etc.
+Website is powered by the Chirpy Jekyll engine. See details below.
+
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;

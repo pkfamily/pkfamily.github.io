@@ -17,12 +17,18 @@ I've always heard good things about the Teen Titans (2003) but never gave it sho
 
 There's actually even a secret third version of the intro that is played in S02E011 [Fractured](https://teentitans.fandom.com/wiki/Fractured). Puffy AmiYumi's producer Toshiro Kai sings this version which is also known as [Larry's Version](https://www.youtube.com/watch?v=Z3xzBmVRZDc&ab_channel=TeenTitansClips)! 
 
+### Possible the Best Teen Titan Episode Ever
+
+[Season 4 Ep 1: Episode 257-494](https://teentitans.fandom.com/wiki/Episode_257-494). Do you want cultural references? Well look no further. This episode is literally packed with them. Star Wars, Highlander, Terminator, references. Also has an live action scene. An ultra widescreen scene. 
+
 
 ### Notable Voice Actors
 
 I was watching the S02E04 Episode [Only Human](https://teentitans.fandom.com/wiki/Only_Human) and after the main villain of the episode, Atlas, spoke, I knew I heard his voice before. After some minor digging, I found that the voice actor for Atlas is [Keith David](https://www.imdb.com/name/nm0202966/). Probably best known for his work on the 1982 horror classic, The Thing.
 
 Next on the list we have S02E07 [Transformation](https://teentitans.fandom.com/wiki/Transformation) where the main narrator is [Tony Jay](https://en.wikipedia.org/wiki/Tony_Jay). His distinctive baritone voice can be recognized as the Elder God in the Legacy of Kain Video Game Series.  
+
+Does anyone remember Milton from Office Space (1999) or Gordon from Dodgeball (2004) played by Stephen Root? Well, he guest stars in [Season 4 Ep 6: Troq](https://teentitans.fandom.com/wiki/Troq) as Val-Yor, the racist superhero.
 
 <script src="https://giscus.app/client.js"
         data-repo="pkfamily/pkfamily.github.io"
